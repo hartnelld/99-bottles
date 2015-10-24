@@ -1,3 +1,3 @@
-var bottles = function() {
-  // Do stuff
+var beerSong = function(n) {
+  return n;
 };
